@@ -23,7 +23,3 @@ Just copy the link you want to be shortened and paste it in the textarea. The ap
 ## Technologies
 
 HTML, CSS, JavaScript
-
-## Contributing
-
-Reach out to me at <negisaksham363@gmail.com> for any questions, feedback, or collaboration opportunities.
